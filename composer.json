@@ -1,0 +1,26 @@
+{
+	"name": "crackerjackdigital/silverstripe-modular-docs",
+	"type": "silverstripe-module",
+	"description": "Docs for all SilverStripe modular modules",
+	"homepage": "http://github.com/crackerjackdigital",
+	"license": "BSD-3-Clause",
+	"keywords": [
+		"silverstripe"
+	],
+	"authors": [
+		{
+			"name": "Steve Wake",
+			"homepage": "https://github.com/wakes"
+		},
+		{
+			"name": "CrackerJack Digital",
+			"homepage": "http://www.crackerjack.net.nz/"
+		}
+	],
+	"require": {
+	},
+	"extra": {
+		"installer-name": "modular-docs"
+	},
+	"minimum-stability": "dev"
+}
